@@ -1,3 +1,7 @@
+-- In order to work with the dataset, I created a table in MySQL Workbench that will store the information from the dataset.
+-- While this is the original code, it has been modified from the default to include "NOT NULL" and an increase in byte size.
+-- Refer to modify_columns.sql for details.
+
 CREATE TABLE `netflix_titles` (
   `show_id` varchar(45) NOT NULL,
   `type` varchar(45) NOT NULL,
