@@ -1,3 +1,6 @@
+-- I used this code to modify the original table for 'netflix_titles'.
+-- The changes that were made include: varchar(45) -> varchar(1000)/varchar(255) and 'NOT NULL' to each column.
+
 ALTER TABLE netflix_titles
 MODIFY COLUMN show_id varchar(45) NOT NULL,
 MODIFY COLUMN type varchar(45) NOT NULL,
