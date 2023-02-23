@@ -1,3 +1,5 @@
+-- Since the dataset was so large, I decided to make a condensed table featuring only variables that I wanted to explore. 
+
 CREATE TABLE `netflix_condense` (
   `type` varchar(45) NOT NULL,
   `title` varchar(1000) NOT NULL,
