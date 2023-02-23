@@ -1,3 +1,5 @@
+Based on this query, it appears that movie documentaries were released than any other genre, followed by stand-up comedies. 
+
 listed_in,COUNT(listed_in)
 Documentaries,248
 "Stand-Up Comedy",209
