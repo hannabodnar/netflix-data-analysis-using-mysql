@@ -1,4 +1,6 @@
+-- Addresses the question, "Which country has the most releases?"
+
 SELECT country, COUNT(country)
 FROM netflix_condense
 GROUP BY country
-HAVING COUNT(country) > 1;
+ORDER BY COUNT(country) DESC;
