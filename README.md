@@ -8,9 +8,9 @@ There are two types of files contained in this project. The xxx.sql files contai
 Some questions I considered while looking through the data:
 * Were there more movies or tv shows in the dataset?
 * Which country had the most movies/shows released?
-* Which genre had the most releases?
+* In the United States, which genre had the most releases for TV Shows and Movies?
 * Which rating had the most releases?
 * In the United States, for each year, which rating had the most releases?
 
-The previous questions will be in the file corresponding to its query along with my analysis. 
+Answers to these questions are in the 'Results file', along with any trends and observations. 
  
