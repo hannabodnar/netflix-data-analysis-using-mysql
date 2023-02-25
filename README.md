@@ -12,5 +12,5 @@ Some questions I considered while looking through the data:
 * Which rating had the most releases?
 * In the United States, for each year, which rating had the most releases?
 
-Answers to these questions are in the 'Results file', along with any trends and observations. 
+Answers to these questions are in the 'Results' file. Additional observations or trends are in the 'Trends' file.
  
